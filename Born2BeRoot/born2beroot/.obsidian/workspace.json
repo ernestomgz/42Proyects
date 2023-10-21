@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "991fc5bb45f13f30",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d005d3358bcdc53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a619e59a948fa140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Firewall configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86693b1d921eeefd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SELinux and AppArmor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2395ce8d6f9bed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monitoring.sh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1caa32f540d1951e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Have into account.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e061894c385b459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LVM vs standard partitioning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b2646efa2283952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LVM vs standard partitioning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7d145ccf562f2f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b61f0c2df41a4f10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c70c887cd32ca55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3387700a3a29d237",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f97cc3c3aa69076",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d6631d9ff417f15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6cd10733750813ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdcfa2a55977df25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "701d06b7419aca5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Monitoring.sh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61bbb075cba494d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Monitoring.sh.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6103fcfe3fd1c22f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7bc6b2fd48abc98f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Monitoring.sh.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e2395ce8d6f9bed0",
+  "lastOpenFiles": [
+    "LVM vs standard partitioning.md",
+    "Have into account.md",
+    "Monitoring.sh.md",
+    "Particion primaria vs secundaria.md",
+    "Encrypted partitions using LVM.md",
+    "Aptitude vs apt vs apt-get.md",
+    "Firewall configuration.md",
+    "Pasted image 20230722083420.png",
+    "Steps to complete the proyect.md",
+    "SELinux and AppArmor.md",
+    "Secure SSH configuration.md",
+    "Strong user-security.md",
+    "Rocky vs Debian.md"
+  ]
+}
