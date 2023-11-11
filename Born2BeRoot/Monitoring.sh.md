@@ -14,4 +14,41 @@ Your script must always be able to display the following information:
 - The IPv4 address of your server and its MAC (Media Access Control) address. (ip addr)
 - The number of commands executed with the sudo program.
 
-echo "------------------"
+
+
+## Script explanation
+### Architecture
+
+`uname -a` - show info about the system
+
+### Physical/virtual cores
+`/proc/cpuinfo` -> File with info about the cores
+(searching for id of phisical cores)
+
+### RAM
+`free --mega` show info about used ram **in megabytes** 
+
+#### Memoria disco
+`df -m` -> show info about memory used **in megabytes** (-m) 
+
+### CPU usage
+`vmstat 1 4` -> virtual memory status 1 - 4 seconds update
+
+### Last reboot
+`who -b` -> last boot. -b specifies boot
+
+### LVM usage
+`lsblk` -> disk info
+
+### TCP connections
+`ss -ta` -> socket stadistics. In this case TCP conn (-ta)
+
+### Users
+`users` show users
+
+### IP and Mac
+`ip link` -> show interfaces.
+
+### Count sudo commands
+`journalctl _COMM=sudo` show important info about the system.
+`_COMM=sudo` means executed by sudo

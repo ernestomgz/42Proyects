@@ -13,26 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firewall configuration.md",
+                "file": "Steps to complete the proyect.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "86693b1d921eeefd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SELinux and AppArmor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2395ce8d6f9bed0",
+            "id": "f98c8b8d81b30680",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,43 +32,19 @@
             }
           },
           {
-            "id": "1caa32f540d1951e",
+            "id": "4d543f638e4797d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Have into account.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e061894c385b459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LVM vs standard partitioning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b2646efa2283952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LVM vs standard partitioning.md",
+                "file": "Steps to complete the proyect.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,20 +179,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2395ce8d6f9bed0",
+  "active": "f98c8b8d81b30680",
   "lastOpenFiles": [
     "LVM vs standard partitioning.md",
     "Have into account.md",
-    "Monitoring.sh.md",
-    "Particion primaria vs secundaria.md",
+    "Firewall configuration.md",
     "Encrypted partitions using LVM.md",
     "Aptitude vs apt vs apt-get.md",
-    "Firewall configuration.md",
     "Pasted image 20230722083420.png",
+    "Password Enforce.md",
     "Steps to complete the proyect.md",
+    "Steps.md",
+    "Particion primaria vs secundaria.md",
     "SELinux and AppArmor.md",
-    "Secure SSH configuration.md",
     "Strong user-security.md",
+    "Monitoring.sh.md",
+    "Secure SSH configuration.md",
     "Rocky vs Debian.md"
   ]
 }

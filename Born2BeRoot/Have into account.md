@@ -1,4 +1,4 @@
-- Hostname: ernesmar42
+socat- Hostname: ernesmar42
 - Password root: 42Born2BeRoot
 - User: ernesmar
 - Password ernesmar: NotBornToBeRoot
