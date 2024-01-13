@@ -49,3 +49,14 @@ pushSwap.c
 ## References
 Idea of circular queue https://medium.com/@ayogun/push-swap-c1f5d2d41e97
 
+## nodes
+struct initializer using { .var1=1, .var2=2}
+https://stackoverflow.com/questions/330793/how-to-initialize-a-struct-in-accordance-with-c-programming-language-standards
+
+# todo arreglar first->previus = top
+
+1: 58 -> 70
+2: 70 -> 58
+
+2:70 -> new
+3:new -> 58:
