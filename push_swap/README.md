@@ -21,13 +21,14 @@ Moves allowed:
 ## Structure
 The stacks are going to be internally implemented as a circular queue.
 https://miro.medium.com/v2/resize:fit:640/format:webp/1*jXTiiMwSBLin3JHgZCDWhg.jpeg
+1*
 
 So the struct stack will have the following information
 - first node
 - size
 
 Also, each node will contain:
-- data
+- data (defined a int, not polimorfic by decision)
 - next node
 - previous node
 
